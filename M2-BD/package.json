@@ -1,0 +1,17 @@
+{
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "migrate.js",
+  "scripts": {
+    "start": "node migrate.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22",
+    "mongo": "^0.1.0",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.4.0",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3"
+  }
+}
